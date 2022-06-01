@@ -1,6 +1,6 @@
 ![](https://github.com/missxa/missxa/blob/master/generated/overview.svg)
 ![](https://github.com/missxa/missxa/blob/master/generated/languages.svg)
+<!-- ![robody.gif](https://github.com/missxa/missxa/blob/master/robody.gif){:style="float: right;margin-right: 7px;margin-top: 7px;"}  -->
 
 </a>
-
-Stats generated using [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+<img align="left" style="margin:50px 50px" src="https://github.com/missxa/missxa/blob/master/robody.gif">

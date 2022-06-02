@@ -11,9 +11,9 @@
 
 ❤️ This is me with my favorite robot in the world - Roboy - built together with very talented and inspiring people. 
 
-🔍 We've got a neat high-level description of the technology [devanthro.com/technology](https://devanthro.com/technology/).
+🔍 We've got a neat high-level description of the technology at [devanthro.com/technology](https://devanthro.com/technology/).
 
-👩‍💻 Most of my code lives inside the [github.com/roboy](https://github.com/roboy). 
+👩‍💻 Most of my code lives inside [github.com/roboy](https://github.com/roboy). 
 
 
 _Stats generated using [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)_
